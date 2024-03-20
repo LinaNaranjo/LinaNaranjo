@@ -2,7 +2,7 @@
 
 ## Sobre mí 🚩
 - Soy desarrolladora Front-End en entrenamiento.
-- Vivo en Melgar Tolima.
+- Vivo en Melgar Tolima Colombia.
 
 ## Tecnologías ✔
 <div align="center">
@@ -22,7 +22,7 @@
 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/ecd443af-ebba-4af8-a46e-1bf64d863b5b" alt="Babel" title="Babel"/></code>
 </div>
 
-## GitHub stats 
+## GitHub stats 📌
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LinaNaranjo&show_icons=true&theme=radical)
 
