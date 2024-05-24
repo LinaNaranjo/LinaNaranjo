@@ -1,7 +1,7 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Lina%20Naranjo%20⭐&width=1500&height=400)](https://github.com/Akshay090/svg-banners)
 
 ## Sobre mí 🚩
-- Soy desarrolladora Front-End en entrenamiento.
+- Soy desarrolladora Web FrontEnd.
 - Vivo en Melgar Tolima Colombia.
 
 ## Tecnologías ✔
