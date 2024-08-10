@@ -1,8 +1,7 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Lina%20Naranjo%20⭐&width=1500&height=400)](https://github.com/Akshay090/svg-banners)
 
 ## Sobre mí 🚩
-- Soy desarrolladora Web FrontEnd.
-- Vivo en Melgar Tolima Colombia.
+Soy desarrolladora Frontend con experiencia en la creación de aplicativos web intuitivos y funcionales,con habilidad y conocimiento en el uso de tecnologías como HTML, Javascript, CSS, SCSS, React y  Redux. Además, me considero una profesional orientada al detalle, proactiva, organizada y con gran capacidad para trabajar en equipo o individual según lo requerido,  me centro en dar soluciones eficientes que aporten a la  optimización de tareas. Actualmente estoy interesada en nuevos retos profesionales que me permitan seguir desarrollando mi experiencia y conocimientos en el campo del desarrollo de software, generando soluciones que respondan a las necesidades de los usuarios mientras tienen una experiencia satisfactoria y de calidad.
 
 ## Tecnologías ✔
 <div align="center">
